@@ -1,6 +1,6 @@
 # 🩺 Projeto Saúde
 
-> 🌿 **projetoSaude** — Website estático de conteúdo sobre saúde, com receitas, exercícios e cálculo de IMC.
+> 🌿 **PROJETO-SAUDE** — Website estático de conteúdo sobre saúde, com receitas, exercícios e cálculo de IMC.
 
 Este projeto é um **site educacional e informativo** sobre saúde e bem-estar, feito com **HTML e CSS**, apresentando diferentes seções com conteúdos saudáveis, interativos e explicativos.
 
